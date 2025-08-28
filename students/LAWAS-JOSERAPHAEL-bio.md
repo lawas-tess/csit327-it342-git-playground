@@ -1,4 +1,4 @@
-- Year/Section: e.g., 3rd Year / G01
-- Favorite Language: e.g., Java
-- One Git Tip Learned: e.g., Use `git status` often
+- Year/Section: 3rd Year / G01
+- Favorite Language: Java
+- One Git Tip Learned:  Use `git status` often
 - GitHub: @lawas-tess
